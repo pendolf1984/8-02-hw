@@ -4,9 +4,9 @@
 
 ![pic1](https://github.com/pendolf1984/8-02-hw/blob/main/1.PNG)  
 ![pic2](https://github.com/pendolf1984/8-02-hw/blob/main/2.PNG)  
-![pic3](3.png)  
-![pic4](4.png)  
-![pic5](5.png)  
+![pic3](https://github.com/pendolf1984/8-02-hw/blob/main/3.PNG)   
+![pic4](https://github.com/pendolf1984/8-02-hw/blob/main/4.PNG)
+![pic5](5.PNG)  
 
 ---
 
